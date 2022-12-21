@@ -67,13 +67,22 @@ h2{
     left: 50%;
     margin-left:-10px;
     text-align:center;
-    padding-bottom: 40px;
+    padding-bottom: 20px;
     color:blueviolet;
     padding-left: 10px;
     padding-top: 10px;
-    
-    
 }
+.head{
+
+    left: 50%;
+    margin-left:-10px;
+    text-align:center;
+    padding-bottom: 20px;
+    color:brown;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
 @media screen and (max-width:768px){
     table{
         flex-wrap:wrap;
